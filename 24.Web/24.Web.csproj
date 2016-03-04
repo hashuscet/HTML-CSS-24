@@ -75,11 +75,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="2.html" />
-    <Content Include="3.html" />
-    <Content Include="4.html" />
-    <Content Include="5.html" />
-    <Content Include="Anasayfa.html" />
+    <Content Include="Sayfalar\2.html" />
+    <Content Include="Sayfalar\3.html" />
+    <Content Include="Sayfalar\4.html" />
+    <Content Include="Sayfalar\5.html" />
+    <Content Include="Sayfalar\Anasayfa1.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
