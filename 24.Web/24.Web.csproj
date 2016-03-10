@@ -66,7 +66,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="5.html" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -81,6 +80,7 @@
     <Content Include="Sayfalar\4.html" />
     <Content Include="Sayfalar\5.html" />
     <Content Include="Sayfalar\Anasayfa1.html" />
+    <Content Include="Sayfalar\ParagraphsAndHeadings.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
