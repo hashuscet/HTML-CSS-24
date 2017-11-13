@@ -24,6 +24,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -79,6 +80,7 @@
     <Content Include="Sayfalar\3.html" />
     <Content Include="Sayfalar\4.html" />
     <Content Include="Sayfalar\5.html" />
+    <Content Include="Sayfalar\6.html" />
     <Content Include="Sayfalar\Anasayfa1.html" />
     <Content Include="Sayfalar\MoreAboutHeadings.html" />
     <Content Include="Sayfalar\ParagraphsAndHeadings.html" />
